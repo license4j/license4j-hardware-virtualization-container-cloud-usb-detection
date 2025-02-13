@@ -24,7 +24,7 @@ Displays detected hardware, and/or virtualization and/or cloud and/or USB stick/
     USB Serial Number       : 001CC0EC3466AA2197EA19F3
     USB Mount Path          : F:\
 
-### A Windows Guest on Hyper-V
+### Windows Guest on Hyper-V
     System User Name        : demo
     System Host Name        : DESKTOP-DFU23TJ
     System Domain Name      : DESKTOP-DFU23TJ
